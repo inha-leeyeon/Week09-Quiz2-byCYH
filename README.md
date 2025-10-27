@@ -139,6 +139,6 @@ bubble (5, 5, 5) R=4 and bubble (3, 3, 3) R=4 have the same volume, V=267.95
 **Actual results:**  
 ![image](https://github.com/chyh001228/images/blob/main/w7q2_c.png)  
 
-(The deadline is 00:00a.m. on October 19, 2025)
+(The deadline is 00:00a.m. on November 2, 2025)
 
 <img src="https://cdn.imweb.me/upload/S201906178853c3e170808/c5d876d707352.jpg" width=30% align=center />
