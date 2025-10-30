@@ -84,7 +84,7 @@ The overlap relationship of the Bubble object is determined by referring to the 
 <br/>
 
 ### Output  
-
+- `Use R to represent the radius of the bubble and V to represent the volume of the bubble`.
 - Output the overlap statu of two bubbles on the first line.  
   e.g. `bubble (1, 1, 1) R=2 and bubble (3, 3, 3) R=3 partially overlap`
 - Output the compare result of two bubbles on the second line.  
@@ -125,11 +125,11 @@ The overlap relationship of the Bubble object is determined by referring to the 
 
 ```
 bubble (1, 1, 1) R=2 and bubble (3, 3, 3) R=3 partially overlap
-bubble with the larger volume: bubble (3, 3, 3) R=3, V=33.49
+bubble with the larger volume: bubble (3, 3, 3) R=3, V=113.04
 bubble (3, 3, 3) R=3 and bubble (7, 7, 7) R=1 are disjoint
 bubble with the larger volume: bubble (3, 3, 3) R=3, V=113.04
 bubble (7, 7, 7) R=1 is included in bubble (5, 5, 5) R=5
-bubble with the larger volume: bubble (5, 5, 5) R=5, V=4.19
+bubble with the larger volume: bubble (5, 5, 5) R=5, V=523.33
 bubble (5, 5, 5) R=5 includes bubble (5, 5, 5) R=4
 bubble with the larger volume: bubble (5, 5, 5) R=5, V=523.33
 bubble (5, 5, 5) R=4 and bubble (3, 3, 3) R=4 partially overlap
